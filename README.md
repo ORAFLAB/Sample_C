@@ -1,1 +1,1 @@
-# Sample_C
+# GOLGA5
